@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "tigermod:block/deepslate_tigrite_ore"
+  }
+}
